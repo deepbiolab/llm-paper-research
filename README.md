@@ -137,7 +137,8 @@ This repository contains implementations and illustrative code related to LLMs p
     - [Research](./research/bert/readme.md)
 50. **[How to Generate and Use Synthetic Data for Finetuning](https://eugeneyan.com/writing/synthetic/)**: Synthetic data is almost all you need.
 51. **[Whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356)**: 680k hrs of audio and multitask formulated as a sequence is all you need.
-- [Research](./research/whisper/readme.md)
+    - [Research](./research/whisper/readme.md)
+
 
 
 
